@@ -7,7 +7,7 @@ In this repository you will find projects I have completed as part of the Udacit
 ## Project 1: Introduction to Data Science - Write A Data Science Blog Post
 This work aims to follow the CRISP-DM process, exhibit technical skills, and communicate insights by way of a blog post.
 The topic of this project was chosen as a personal interest but also to raise awareness on the health of one of the most popular pets in the UK.    
-[Notebook](https://github.com/Fernandes2692/Udacity-DS-Project-1/blob/main/notebook/Rabbit_DataSet_DS-Udacity-00.ipynb)    
+[Notebook](https://github.com/Fernandes2692/Rabbits-Not-Rodents_Udacity-Project)    
 [Medium blog](https://medium.com/@laurafernandes_32018/rabbits-rodents-fd2436d408e8)
 
 ## Project 2: Data Engineering - Disaster Response Pipeline
