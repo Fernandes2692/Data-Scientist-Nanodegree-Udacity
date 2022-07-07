@@ -11,12 +11,12 @@ The topic of this project was chosen as a personal interest but also to raise aw
 [Medium blog](https://medium.com/@laurafernandes_32018/rabbits-rodents-fd2436d408e8)
 
 ## Project 2: Data Engineering - Disaster Response Pipeline
-Work in progress. <br/>
 In data engineering for data scientists, you will practice building ETL, NLP, and machine learning pipelines to categorise emergency messages based on the needs communicated by the sender.
-This project is provided by our industry partner [Appen](https://appen.com/) to build a model for an API that classifies disaster messages. 
+This project is provided by our industry partner [Appen](https://appen.com/) to build a model for an API that classifies disaster messages. </br>
+[Notebook](https://github.com/Fernandes2692/Project-Disaster-Response-Pipeline)
 
 ## Project 3: Experimental Design & Recommendations - Recommendations with IBM
-To be completed 
+Work in progress
 
 ## Project 4: Data Scientist Capstone Project 
 To be completed 
