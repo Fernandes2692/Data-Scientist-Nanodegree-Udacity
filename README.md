@@ -16,7 +16,7 @@ This project is provided by our industry partner [Appen](https://appen.com/) to 
 [Notebook](https://github.com/Fernandes2692/Project-Disaster-Response-Pipeline)
 
 ## Project 3: Experimental Design & Recommendations - Recommendations with IBM
-Work in progress
+For this project you will analyse the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. In order to determine which articles to show to each user, you will be performing a study of the data available on the IBM Watson Studio platform. 
 
 ## Project 4: Data Scientist Capstone Project 
 To be completed 
