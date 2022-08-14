@@ -20,4 +20,5 @@ For this project you will analyse the interactions that users have with articles
 [Notebook](https://github.com/Fernandes2692/Experimental-Design-Recommendations)
 
 ## Project 4: Data Scientist Capstone Project 
-To be completed 
+My capstone project is based on data from the SETI Breakthrough Listen challenge.
+In this project I use data science skills to accurately classify anomalous signals (synthetic signatures) planted in some of the spectrogram cadence targets from the Green Bank Telescope observations using machine learning-based models.
