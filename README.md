@@ -21,4 +21,4 @@ For this project you will analyse the interactions that users have with articles
 
 ## Project 4: Data Scientist Capstone Project 
 My capstone project is based on data from the SETI Breakthrough Listen challenge.
-In this project I use data science skills to accurately classify anomalous signals (synthetic signatures) planted in some of the spectrogram cadence targets from the Green Bank Telescope observations using machine learning-based models.
+In this project I use data science skills to help accurately classify simulated signals planted in scans of Breakthrough Listen targets using machine learning-based models.
