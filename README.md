@@ -23,3 +23,4 @@ For this project you will analyse the interactions that users have with articles
 My capstone project is based on data from the SETI Breakthrough Listen challenge.
 In this project I use data science skills to help accurately classify simulated signals planted in scans of Breakthrough Listen targets using machine learning-based models. </br>
 [Notebook](https://github.com/Fernandes2692/Udacity-Capstone-Project_SETI-Breakthrough-Listen)
+[Medium blog](https://medium.com/@laurafernandes_32018/classification-of-simulated-technosignatures-in-cadence-snippets-from-the-green-bank-telescope-9de92e72977d)
