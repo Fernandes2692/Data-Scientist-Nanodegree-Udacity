@@ -7,7 +7,7 @@ In this repository you will find projects I have completed as part of the Udacit
 ## Project 1: Introduction to Data Science - Write A Data Science Blog Post
 This work aims to follow the CRISP-DM process, exhibit technical skills, and communicate insights by way of a blog post.
 The topic of this project was chosen as a personal interest but also to raise awareness on the health of one of the most popular pets in the UK.    
-[Notebook](https://github.com/Fernandes2692/Rabbits-Not-Rodents_Udacity-Project)    
+[Notebook](https://github.com/Fernandes2692/Rabbits-Not-Rodents_Udacity-Project)    </br>
 [Medium blog](https://medium.com/@laurafernandes_32018/rabbits-rodents-fd2436d408e8)
 
 ## Project 2: Data Engineering - Disaster Response Pipeline
@@ -21,6 +21,6 @@ For this project you will analyse the interactions that users have with articles
 
 ## Project 4: Data Scientist Capstone Project 
 My capstone project is based on data from the SETI Breakthrough Listen challenge.
-In this project I use data science skills to help accurately classify simulated signals planted in scans of Breakthrough Listen targets using machine learning-based models. </br>
-[Notebook](https://github.com/Fernandes2692/Udacity-Capstone-Project_SETI-Breakthrough-Listen)
+In this project I use data science skills to help accurately classify simulated signals planted in scans of Breakthrough Listen targets using machine/deep learning-based models. </br>
+[Notebook](https://github.com/Fernandes2692/Udacity-Capstone-Project_SETI-Breakthrough-Listen)</br>
 [Medium blog](https://medium.com/@laurafernandes_32018/classification-of-simulated-technosignatures-in-cadence-snippets-from-the-green-bank-telescope-9de92e72977d)
