@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+   <img src="Udacity-Data-Scientist-Certificate.png" width="600">
+</p>
+
 # Data Scientist Nanodegree (Udacity)
 
 Welcome :octocat:
